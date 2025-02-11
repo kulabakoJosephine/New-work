@@ -1,0 +1,10 @@
+.food{
+    color: white;
+    text-align: center;
+    font-size: large;
+    background-color: black;
+    list-style: lower-roman;
+    font-weight: bold;
+    font-style: italic;
+}
+ 
